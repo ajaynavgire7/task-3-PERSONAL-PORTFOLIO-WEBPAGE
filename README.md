@@ -30,3 +30,4 @@ While working on this project, I learned how to design and organize a complete w
 Overall, developing the Personal Portfolio Website was a valuable learning experience. It helped me apply my theoretical knowledge in a practical way and enhanced my confidence in web development. This project plays an important role in presenting my skills and projects professionally and is a significant part of my internship learning experience.
 
 *OUTPUT*
+<img width="1830" height="898" alt="Image" src="https://github.com/user-attachments/assets/4963fc30-b6dd-4779-b29f-350c75d5266f" />
